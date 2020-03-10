@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.nf.lol.service.test.product.ProductDetailTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.01 s - in edu.nf.lol.service.test.product.ProductDetailTest

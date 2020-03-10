@@ -1,0 +1,7 @@
+edu\nf\lol\product\entity\ProductAttributeKey.class
+edu\nf\lol\product\entity\ProductImage.class
+edu\nf\lol\user\entity\User.class
+edu\nf\lol\product\entity\ProductType.class
+edu\nf\lol\product\entity\Product.class
+edu\nf\lol\product\entity\ProductAttributeValue.class
+edu\nf\lol\product\entity\ProductSpecs.class
